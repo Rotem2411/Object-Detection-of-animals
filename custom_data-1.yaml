@@ -1,0 +1,12 @@
+
+train: ../train_data/images/train
+val: ../train_data/images/val
+
+
+
+# Classes
+names:
+  0: giraffe
+  1: rat
+
+
